@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clients>
+  <Clientdate>
+    <name>Patrick</name>
+    <surname>Lupıya</surname>
+    <Appointment>
+      <appdate>Wednesday, January 28, 2015</appdate>
+      <apptime>12:00</apptime>
+    </Appointment>
+  </Clientdate>
+  <Clientdate>
+    <name>Khammy</name>
+    <surname>Zed</surname>
+    <Appointment>
+      <appdate>Friday, January 30, 2015</appdate>
+      <apptime>9:00</apptime>
+    </Appointment>
+  </Clientdate>
+  <Clientdate>
+    <name>kammy</name>
+    <surname>mhango</surname>
+    <Appointment>
+      <appdate>Sunday, February 22, 2015</appdate>
+      <apptime>12:00</apptime>
+    </Appointment>
+  </Clientdate>
+</Clients>
